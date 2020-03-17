@@ -1,6 +1,6 @@
 # Python_API_Homework
 
-# WeatherPy
+# WeatherPy : 
 Program file : WeatherPy.ipynb
 CSV file: export_city_df.csv
 PNG files:
@@ -9,7 +9,7 @@ PNG files:
 	Lat_Tempe.png: plot for latitude vs. temperature
 	Lat_Wind.png: plot for latitude vs. wind speed
 
-# VacationPy
+# VacationPy : 
 Program file : VacationPy.ipynb
 PNG files:
 	Humidity_Heatmap.png: heat map that displays the humidity for every city
